@@ -1,0 +1,15 @@
+python == 3.12.9
+numpy == 1.26.4
+pandas == 2.2.3
+matplotlib == 3.10.0
+rdkit == 2024.9.5
+scipy == 1.15.1
+py3Dmol == 2.4.2
+joblib == 1.4.2
+numba == 0.61.0
+pytorch == 2.5.1
+torch-geometric == 2.6.1
+torchmetrics == 1.7.1
+scikit-learn == 1.6.1
+xgboost == 2.1.1
+
